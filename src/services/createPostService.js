@@ -5,4 +5,4 @@ const createPostService = async (postdata) => {
   return response.data;
 };
 
-export default createPostService; // Ensure this line is present
+export default createPostService;
