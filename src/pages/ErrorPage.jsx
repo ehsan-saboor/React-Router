@@ -8,11 +8,8 @@ function ErrorPage() {
       <p className="text-xl text-gray-700 mb-8 max-w-xl mx-auto">
         Oops! The page you are looking for does not exist or has been moved.
       </p>
-      <p className="text-lg text-gray-600 mb-6">
-        Please check the URL or go back to the homepage.
-      </p>
       <Link to="/">
-        <button className="bg-blue-600 text-white px-6 py-3 rounded-lg shadow-lg hover:bg-blue-700 transition-colors">
+        <button className="bg-teal-600 text-white px-6 py-3 rounded-lg shadow-lg hover:bg-teal-700 transition-colors">
           Go Back to Home
         </button>
       </Link>
