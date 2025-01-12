@@ -1,4 +1,4 @@
-import axios from "axios"; // Ensure axios is imported correctly
+import axios from "axios";
 
 class AxiosInstance {
   constructor(baseURL) {

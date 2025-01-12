@@ -1,5 +1,5 @@
 import { useState } from "react";
-import createPost from "../services/createPostService"; // Adjust the import path as necessary
+import createPost from "../services/createPostService";
 
 const usePostForm = () => {
     const [title, setTitle] = useState("");

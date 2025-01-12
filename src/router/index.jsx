@@ -3,7 +3,7 @@ import AboutPage from "../pages/AboutPage";
 import HomePage from "../pages/HomePage";
 import ProfilePage from "../pages/ProfilePage";
 import ErrorPage from "../pages/ErrorPage";
-import Layout from "../components/layout/Layout"; // Ensure the path is correct
+import Layout from "../components/layout/Layout";
 import CreatePostForm from "../components/form/CreatePostForm";
 
 const router = createBrowserRouter([
